@@ -16,7 +16,7 @@ I’m a robotics enthusiast with a passion for creating autonomous systems and s
 
 Open to connecting with fellow robotics enthusiasts and collaborators. Let’s work together to push the boundaries of robotics.
 
-Email: nikhileshkumar713@gmail.com
 🔗 [LinkedIn](www.linkedin.com/in/nikhilesh-kumar-271783243)
+
 🔗 [Email](nikhileshkumar713@gmail.com)
 
