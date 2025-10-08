@@ -1,22 +1,22 @@
 ### *Hi there 👋, I’m Nikhilesh Kumar*
 
-🎓 Recently graduated in Robotics & Automation Engineering with hands-on experience in ROS 2, mobile robotics, and warehouse automation systems.
+I’m a robotics enthusiast with a passion for creating autonomous systems and smart automation solutions. I love exploring how robots can perceive, navigate, and interact with the world, blending ROS 2, AI, and real-world robotics.
 
-⚡ I’ve worked on projects involving:
+🔧 My Skills & Interests
 
-**Autonomous Mobile Robots (AMR)** – SLAM, Navigation2, Kalman filtering, and safety systems
+* ROS 2 & Navigation: SLAM, Nav2, sensor fusion, AMR control
 
-**Material Handling & Automation** – Integrating AMRs with conveyors and PLCs using ROS 2 & OPC UA
+* Automation Systems: Conveyor integration, PLC communication, warehouse robotics
 
-**Computer Vision & AI** – Face recognition, gesture control, and sensor fusion for robotics
+* AI & Perception: Computer vision, gesture recognition, intelligent decision-making
 
-**Simulation & Control** – Gazebo, RViz, MATLAB Simulink for robotics applications
+* Simulation & Prototyping: Gazebo, RViz, MATLAB Simulink
 
-🚀 I’m passionate about robotics, automation, and AI-driven systems, and I’m always exploring ways to bridge theory with real-world applications.
+**🌟 Let’s Collaborate!**
 
-📚 Currently enhancing my skills in path planning, advanced navigation, and multi-robot systems.
-
-**📬 Let’s connect!**
+Open to connecting with fellow robotics enthusiasts and collaborators. Let’s work together to push the boundaries of robotics.
 
 Email: nikhileshkumar713@gmail.com
-LinkedIn: www.linkedin.com/in/nikhilesh-kumar-271783243
+🔗 [LinkedIn](www.linkedin.com/in/nikhilesh-kumar-271783243)
+🔗 [Email](nikhileshkumar713@gmail.com)
+
