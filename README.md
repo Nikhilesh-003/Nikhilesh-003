@@ -39,16 +39,38 @@ class AboutMe:
 # My Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,cpp,c&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,html,css,nodejs&theme=dark)](https://skillicons.dev)
 
 ### Robotics & Hardware
 [![Robotics](https://skillicons.dev/icons?i=raspberrypi,arduino,linux&theme=dark)](https://skillicons.dev)
+<br/>
+![Nvidia Jetson](https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### AI & Computer Vision
 [![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
+<br/>
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=for-the-badge&logoColor=white)
 
-### Dev Tools & Infrastructure
-[![DevTools](https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark)](https://skillicons.dev)
+### Simulation & 3D Tools
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Open3D](https://img.shields.io/badge/Open3D-3498DB?style=for-the-badge&logoColor=white)
+
+### Drone & Autonomy Protocols
+![QGroundControl](https://img.shields.io/badge/QGroundControl-CC0000?style=for-the-badge&logoColor=white)
+![Mission Planner](https://img.shields.io/badge/Mission%20Planner-1E3A5F?style=for-the-badge&logoColor=white)
+![MAVLink](https://img.shields.io/badge/MAVLink-4A4A4A?style=for-the-badge&logoColor=white)
+![MAVProxy](https://img.shields.io/badge/MAVProxy-2E7D32?style=for-the-badge&logoColor=white)
+![MAVROS](https://img.shields.io/badge/MAVROS-6A1B9A?style=for-the-badge&logoColor=white)
+![CAN Bus](https://img.shields.io/badge/CAN%20Bus-E65100?style=for-the-badge&logoColor=white)
+
+### Automation
+![Microsoft Power Automate](https://img.shields.io/badge/Microsoft%20Automation-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Dev Tools & Deployment
+[![DevTools](https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,supabase&theme=dark)](https://skillicons.dev)
+<br/>
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ---
 
