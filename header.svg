@@ -1,77 +1,71 @@
-<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#060d1a"/>
-      <stop offset="50%" style="stop-color:#0b1f4a"/>
-      <stop offset="100%" style="stop-color:#060d1a"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#040812"/>
+      <stop offset="0.5" stop-color="#0A1324"/>
+      <stop offset="1" stop-color="#101B32"/>
     </linearGradient>
-    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#b8860b"/>
-      <stop offset="45%" style="stop-color:#FFD700"/>
-      <stop offset="100%" style="stop-color:#b8860b"/>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6F5720"/>
+      <stop offset="0.5" stop-color="#E1C46D"/>
+      <stop offset="1" stop-color="#A7862D"/>
     </linearGradient>
-    <pattern id="dots" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
-      <circle cx="20" cy="20" r="1" fill="#1a3a7a" opacity="0.45"/>
-    </pattern>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <!-- Dot grid overlay -->
-  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
 
-  <!-- Top & bottom gold border lines -->
-  <rect x="0" y="0" width="1200" height="2.5" fill="#FFD700" opacity="0.85"/>
-  <rect x="0" y="297.5" width="1200" height="2.5" fill="#FFD700" opacity="0.85"/>
+  <!-- Double gold border -->
+  <rect x="18" y="18" width="1364" height="384" rx="22" stroke="url(#gold)" stroke-width="1.6" opacity="0.82"/>
+  <rect x="34" y="34" width="1332" height="352" rx="18" stroke="#D6C089" stroke-opacity="0.12" stroke-width="1"/>
 
-  <!-- Left gold accent bar -->
-  <rect x="65" y="72" width="5" height="156" fill="#FFD700" opacity="0.95"/>
+  <!-- Subtle horizontal rules -->
+  <g opacity="0.18">
+    <path d="M0 120H1400" stroke="#D8B96A" stroke-width="1"/>
+    <path d="M0 210H1400" stroke="#D8B96A" stroke-width="1"/>
+    <path d="M0 300H1400" stroke="#D8B96A" stroke-width="1"/>
+  </g>
 
-  <!-- Right side: Radar / crosshair decoration -->
-  <circle cx="1065" cy="150" r="100" fill="none" stroke="#FFD700" stroke-width="0.8" opacity="0.18"/>
-  <circle cx="1065" cy="150" r="72"  fill="none" stroke="#FFD700" stroke-width="1.2" opacity="0.32"/>
-  <circle cx="1065" cy="150" r="44"  fill="none" stroke="#FFD700" stroke-width="1"   opacity="0.50"/>
-  <circle cx="1065" cy="150" r="8"   fill="#FFD700" opacity="0.65"/>
+  <!-- Glow ellipse right -->
+  <g filter="url(#blur)" opacity="0.30">
+    <ellipse cx="1120" cy="210" rx="160" ry="140" fill="#E1C46D" fill-opacity="0.13"/>
+  </g>
 
-  <!-- Crosshair lines -->
-  <line x1="1065" y1="48"  x2="1065" y2="252" stroke="#FFD700" stroke-width="0.8" opacity="0.22"/>
-  <line x1="963"  y1="150" x2="1167" y2="150" stroke="#FFD700" stroke-width="0.8" opacity="0.22"/>
+  <!-- Animated rotating dashed outer ring -->
+  <g opacity="0.14">
+    <circle cx="1120" cy="210" r="155" stroke="#E1C46D" stroke-width="1.2" fill="none" stroke-dasharray="7 12">
+      <animateTransform attributeName="transform" type="rotate" from="0 1120 210" to="360 1120 210" dur="36s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="210" r="108" stroke="#E1C46D" stroke-width="1" fill="none"/>
+    <circle cx="1120" cy="210" r="58"  stroke="#E1C46D" stroke-width="1" fill="none"/>
+  </g>
 
-  <!-- Tick marks on outermost ring -->
-  <line x1="1065" y1="48"  x2="1065" y2="60"  stroke="#FFD700" stroke-width="2.5" opacity="0.75"/>
-  <line x1="1065" y1="252" x2="1065" y2="240" stroke="#FFD700" stroke-width="2.5" opacity="0.75"/>
-  <line x1="963"  y1="150" x2="975"  y2="150" stroke="#FFD700" stroke-width="2.5" opacity="0.75"/>
-  <line x1="1167" y1="150" x2="1155" y2="150" stroke="#FFD700" stroke-width="2.5" opacity="0.75"/>
+  <!-- Animated gold dashes (left accent) -->
+  <g opacity="0.88">
+    <path d="M108 90H460" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" stroke-dasharray="218 48">
+      <animate attributeName="stroke-dashoffset" values="0;-266" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <path d="M108 338H460" stroke="url(#gold)" stroke-width="2" stroke-linecap="round" stroke-dasharray="124 26">
+      <animate attributeName="stroke-dashoffset" values="0;150" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
 
-  <!-- Circuit trace drifting left from radar -->
-  <polyline points="963,150 860,150 860,118" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.18"/>
-  <circle cx="860" cy="118" r="2.5" fill="#FFD700" opacity="0.25"/>
-  <polyline points="963,150 900,150 900,178" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.12"/>
-  <circle cx="900" cy="178" r="2" fill="#FFD700" opacity="0.18"/>
+  <!-- Name & subtitles -->
+  <text x="108" y="192" fill="#F6E7BF" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="6">NIKHILESH KUMAR</text>
+  <text x="110" y="242" fill="#E9D9A0" font-family="Inter, Arial, sans-serif" font-size="19" letter-spacing="5">ROBOTICS ENGINEER  •  VIT CHENNAI  •  DUBAI, UAE</text>
+  <text x="110" y="282" fill="#B8C2D1" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="3">ROS 2  •  SLAM  •  COMPUTER VISION  •  AMR  •  UGV  •  AUTONOMOUS SYSTEMS</text>
 
-  <!-- Name -->
-  <text x="90" y="160"
-        font-family="Arial, Helvetica, sans-serif"
-        font-weight="900"
-        font-size="66"
-        fill="url(#goldGrad)"
-        letter-spacing="2">NIKHILESH KUMAR</text>
+  <!-- Corner X marks (top and bottom, flanking radar) -->
+  <g opacity="0.70">
+    <path d="M1088 76L1134 122"  stroke="#E1C46D" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1146 76L1100 122"  stroke="#E1C46D" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1088 314L1134 268" stroke="#E1C46D" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M1146 314L1100 268" stroke="#E1C46D" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
 
-  <!-- Separator line under name -->
-  <line x1="90" y1="177" x2="730" y2="177" stroke="#FFD700" stroke-width="1.5" opacity="0.55"/>
-
-  <!-- Subtitle -->
-  <text x="93" y="214"
-        font-family="Arial, Helvetica, sans-serif"
-        font-weight="300"
-        font-size="19"
-        fill="#7da8cc"
-        letter-spacing="9">ROBOTICS ENGINEER</text>
-
-  <!-- Small circuit nodes at bottom left -->
-  <circle cx="93"  cy="248" r="3"   fill="#FFD700" opacity="0.55"/>
-  <line   x1="101" y1="248" x2="190" y2="248" stroke="#FFD700" stroke-width="1"   opacity="0.30"/>
-  <circle cx="197" cy="248" r="2"   fill="#FFD700" opacity="0.30"/>
-  <line   x1="203" y1="248" x2="260" y2="248" stroke="#FFD700" stroke-width="1"   opacity="0.18"/>
-  <circle cx="266" cy="248" r="1.5" fill="#FFD700" opacity="0.18"/>
+  <!-- Gold separator line under text block -->
+  <rect x="106" y="305" width="360" height="2" fill="url(#gold)" opacity="0.84"/>
 </svg>
