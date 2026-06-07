@@ -18,7 +18,6 @@ class AboutMe:
         self.name         = "Nikhilesh Kumar"
         self.pronouns     = "He/Him"
         self.university   = "Vellore Institute of Technology, Chennai"
-        self.role         = "Robotics Engineer @ I Hub Robotics"
         self.location     = "Dubai, United Arab Emirates"
         self.technologies = [
             "Autonomous Mobile Robots (AMR / UGV)",
