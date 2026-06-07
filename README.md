@@ -10,7 +10,7 @@
 
 # About Me
 
-Hello 👋, I'm Nikhilesh Kumar — a Robotics Engineer who turns complex autonomous challenges into real-world systems. I hold a B.Tech in Mechatronics & Automation from VIT Chennai (GPA: 9.16/10) and have built and deployed robotic systems across India, Malaysia, and Dubai — from defense-grade UGVs to warehouse AMRs and medical mobile manipulators.
+Hello 👋, I'm Nikhilesh Kumar — a Robotics Engineer who turns complex autonomous challenges into real-world systems. I hold a B.Tech in Mechatronics & Automation from VIT Chennai (GPA: 9.16/10).
 
 ```python
 class AboutMe:
