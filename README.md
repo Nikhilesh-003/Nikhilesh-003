@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=50&lines=Robotics+Engineer;ROS2+%26+SLAM+Specialist;Autonomous+Systems+Developer;Computer+Vision+Researcher;Published+IEEE+%26+IET+Author;Building+the+Future+of+Autonomy" alt="Typing SVG" />
 </p>
 
-<!-- Marquee -->
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    🤖 Robotics Engineer &nbsp;|&nbsp; 🔧 ROS2 & Nav2 &nbsp;|&nbsp; 🧠 SLAM & Computer Vision &nbsp;|&nbsp; 🚁 Drones & AUVs &nbsp;|&nbsp; 🏭 AMR & UGV Development &nbsp;|&nbsp; 🛡️ Defense-Grade Robotics &nbsp;|&nbsp; 🌏 Worked in 3+ Countries &nbsp;|&nbsp; 📝 3x IEEE / IET Publications &nbsp;|&nbsp; 💡 Building Autonomous Futures!
-  </marquee>
-</p>
-
 ---
 
 # About Me
