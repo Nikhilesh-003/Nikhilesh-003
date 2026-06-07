@@ -3,7 +3,7 @@
 
 <!-- Dynamic Gold Titles (Typing Animation) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=50&lines=Robotics+Engineer;ROS2+/+SLAM+/+Nav2+/;Autonomous+Systems+Developer;Published+IEEE+%26+IET+Author;Building+the+Future+of+Autonomy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=50&lines=Robotics+Engineer;Autonomous+Systems+Developer;Published+IEEE+%26+IET+Author;Building+the+Future+of+Autonomy" alt="Typing SVG" />
 </p>
 
 ---
