@@ -1,5 +1,5 @@
 <!-- Waving Banner Cover -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=280&section=header&text=Nikhilesh%20Kumar&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Robotics%20Enthusiast%20%7C%20ROS%202%20%7C%20AI%20%26%20Automation&descAlignY=58&descAlign=50&descSize=18&descFontColor=ffffff)](https://github.com/Nikhilesh-003)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=280&section=header&text=Nikhilesh%20Kumar&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Robotics%20Enthusiast%20%7C%20ROS%202%20%7C%20AI%20%26%20Automation&descAlignY=58&descAlign=50&descSize=18&descFontColor=ffffff" width="100%" />
 
 <!-- Marquee -->
 <p align="center">
@@ -41,4 +41,4 @@ Open to connecting with fellow robotics enthusiasts and collaborators. Let's wor
 </p>
 
 <!-- Footer Wave -->
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)](https://github.com/Nikhilesh-003)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%" />
