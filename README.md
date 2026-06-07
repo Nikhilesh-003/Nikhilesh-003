@@ -1,5 +1,5 @@
-<!-- Cover Banner: Blue & Gold Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,35:0d2d6b,70:1a47a8,100:0a1628&height=320&section=header&text=Nikhilesh%20Kumar&fontSize=75&fontColor=FFD700&animation=twinkling&fontAlignY=42" width="100%" />
+<!-- Cover: Custom SVG Banner -->
+<img src="./header.svg" width="100%" />
 
 <!-- Dynamic Gold Titles (Typing Animation) -->
 <p align="center">
@@ -73,6 +73,3 @@ class AboutMe:
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
-
-<!-- Footer Wave: Blue & Gold -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a47a8,50:0d2d6b,100:0a1628&height=120&section=footer" width="100%" />
