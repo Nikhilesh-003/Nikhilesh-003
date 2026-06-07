@@ -39,16 +39,22 @@ class AboutMe:
 # My Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,cpp,html,css,nodejs&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Robotics & Hardware
-[![Robotics](https://skillicons.dev/icons?i=raspberrypi,arduino,linux&theme=dark)](https://skillicons.dev)
-<br/>
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nvidia Jetson](https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### AI & Computer Vision
-[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
-<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=for-the-badge&logoColor=white)
 
 ### Simulation & 3D Tools
@@ -65,11 +71,15 @@ class AboutMe:
 ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-E65100?style=for-the-badge&logoColor=white)
 
 ### Automation
-![Microsoft Power Automate](https://img.shields.io/badge/Microsoft%20Automation-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Automation](https://img.shields.io/badge/Microsoft%20Automation-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Dev Tools & Deployment
-[![DevTools](https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,supabase&theme=dark)](https://skillicons.dev)
-<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ---
