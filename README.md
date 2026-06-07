@@ -1,5 +1,10 @@
-<!-- Waving Banner Cover -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=280&section=header&text=Nikhilesh%20Kumar&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Robotics%20Engineer%20%7C%20ROS2%20%7C%20SLAM%20%7C%20Autonomous%20Systems&descAlignY=58&descAlign=50&descSize=18&descFontColor=ffffff" width="100%" />
+<!-- Cover Banner: Blue & Gold Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,35:0d2d6b,70:1a47a8,100:0a1628&height=320&section=header&text=Nikhilesh%20Kumar&fontSize=75&fontColor=FFD700&animation=twinkling&fontAlignY=42" width="100%" />
+
+<!-- Dynamic Gold Titles (Typing Animation) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=50&lines=Robotics+Engineer;ROS2+%26+SLAM+Specialist;Autonomous+Systems+Developer;Computer+Vision+Researcher;Published+IEEE+%26+IET+Author;Building+the+Future+of+Autonomy" alt="Typing SVG" />
+</p>
 
 <!-- Marquee -->
 <p align="center">
@@ -76,5 +81,5 @@ class AboutMe:
   </a>
 </p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%" />
+<!-- Footer Wave: Blue & Gold -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a47a8,50:0d2d6b,100:0a1628&height=120&section=footer" width="100%" />
