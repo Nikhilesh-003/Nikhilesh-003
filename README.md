@@ -3,7 +3,7 @@
 
 <!-- Dynamic Gold Titles (Typing Animation) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=50&lines=Robotics+Engineer;ROS2+%26+SLAM+Specialist;Autonomous+Systems+Developer;Computer+Vision+Researcher;Published+IEEE+%26+IET+Author;Building+the+Future+of+Autonomy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=50&lines=Robotics+Engineer;ROS2+%26+/+SLAM+/+Nav2+/;Autonomous+Systems+Developer;Published+IEEE+%26+IET+Author;Building+the+Future+of+Autonomy" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,9 +24,9 @@ class AboutMe:
             "ROS2 · Nav2 · MoveIt2 · RTABMap",
             "SLAM (2D & 3D) · Path Planning & Navigation",
             "Computer Vision · YOLOv8/v10 · OpenCV",
-            "Deep Learning · CNNs · Point Cloud Processing",
+            "Deep Learning · Point Cloud Processing",
             "Drone Systems (PX4 / Pixhawk)",
-            "Simulation: Gazebo · Isaac Sim · RViz",
+            "Simulation: Gazebo · Isaac Sim · RViz · Open3D",
             "Embedded Systems: Raspberry Pi · Arduino · ESP32",
         ]
         self.publications  = 3   # IEEE Xplore, IET, Data-in-Brief
